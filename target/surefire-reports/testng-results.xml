@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="177308" started-at="2018-07-04T07:21:21Z" finished-at="2018-07-04T07:24:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="177308" started-at="2018-07-04T07:21:21Z" finished-at="2018-07-04T07:24:18Z">
+      <class name="com.qa.fcrm.scripts.VerifyMultipleLogin">
+        <test-method status="PASS" signature="initExtentReport()[pri:0, instance:com.qa.fcrm.scripts.VerifyMultipleLogin@7d9d1a19]" name="initExtentReport" is-config="true" duration-ms="687" started-at="2018-07-04T12:51:20Z" finished-at="2018-07-04T12:51:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initExtentReport -->
+        <test-method status="PASS" signature="initBrowser(java.lang.String)[pri:0, instance:com.qa.fcrm.scripts.VerifyMultipleLogin@7d9d1a19]" name="initBrowser" is-config="true" duration-ms="0" started-at="2018-07-04T12:51:21Z" finished-at="2018-07-04T12:51:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method status="PASS" signature="initApp(java.lang.String)[pri:0, instance:com.qa.fcrm.scripts.VerifyMultipleLogin@7d9d1a19]" name="initApp" is-config="true" duration-ms="48886" started-at="2018-07-04T12:51:21Z" finished-at="2018-07-04T12:52:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initApp -->
+        <test-method status="PASS" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:com.qa.fcrm.scripts.VerifyMultipleLogin@7d9d1a19]" name="preCondition" is-config="true" duration-ms="13" started-at="2018-07-04T12:52:17Z" finished-at="2018-07-04T12:52:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.fcrm.scripts.VerifyMultipleLogin.testMultipleLogin(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="testMultipleLogin(java.lang.String, java.lang.String)[pri:0, instance:com.qa.fcrm.scripts.VerifyMultipleLogin@7d9d1a19]" name="testMultipleLogin" duration-ms="32443" started-at="2018-07-04T12:52:17Z" data-provider="testLoginData" finished-at="2018-07-04T12:52:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ashwinkumar07]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Passw0rd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMultipleLogin -->
+        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.qa.fcrm.scripts.VerifyMultipleLogin@7d9d1a19]" name="postCondition" is-config="true" duration-ms="10" started-at="2018-07-04T12:52:50Z" finished-at="2018-07-04T12:52:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testMultipleLogin status=SUCCESS method=VerifyMultipleLogin.testMultipleLogin(java.lang.String, java.lang.String)[pri:0, instance:com.qa.fcrm.scripts.VerifyMultipleLogin@7d9d1a19] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:com.qa.fcrm.scripts.VerifyMultipleLogin@7d9d1a19]" name="preCondition" is-config="true" duration-ms="2" started-at="2018-07-04T12:52:50Z" finished-at="2018-07-04T12:52:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.fcrm.scripts.VerifyMultipleLogin.testMultipleLogin(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="testMultipleLogin(java.lang.String, java.lang.String)[pri:0, instance:com.qa.fcrm.scripts.VerifyMultipleLogin@7d9d1a19]" name="testMultipleLogin" duration-ms="30199" started-at="2018-07-04T12:52:50Z" data-provider="testLoginData" finished-at="2018-07-04T12:53:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ashwinkallingal]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Passw0rd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMultipleLogin -->
+        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.qa.fcrm.scripts.VerifyMultipleLogin@7d9d1a19]" name="postCondition" is-config="true" duration-ms="3" started-at="2018-07-04T12:53:20Z" finished-at="2018-07-04T12:53:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testMultipleLogin status=SUCCESS method=VerifyMultipleLogin.testMultipleLogin(java.lang.String, java.lang.String)[pri:0, instance:com.qa.fcrm.scripts.VerifyMultipleLogin@7d9d1a19] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:com.qa.fcrm.scripts.VerifyMultipleLogin@7d9d1a19]" name="preCondition" is-config="true" duration-ms="2" started-at="2018-07-04T12:53:20Z" finished-at="2018-07-04T12:53:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.fcrm.scripts.VerifyMultipleLogin.testMultipleLogin(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="testMultipleLogin(java.lang.String, java.lang.String)[pri:0, instance:com.qa.fcrm.scripts.VerifyMultipleLogin@7d9d1a19]" name="testMultipleLogin" duration-ms="25297" started-at="2018-07-04T12:53:20Z" data-provider="testLoginData" finished-at="2018-07-04T12:53:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ashwinkumar07]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Passw0rd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMultipleLogin -->
+        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.qa.fcrm.scripts.VerifyMultipleLogin@7d9d1a19]" name="postCondition" is-config="true" duration-ms="1" started-at="2018-07-04T12:53:46Z" finished-at="2018-07-04T12:53:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testMultipleLogin status=SUCCESS method=VerifyMultipleLogin.testMultipleLogin(java.lang.String, java.lang.String)[pri:0, instance:com.qa.fcrm.scripts.VerifyMultipleLogin@7d9d1a19] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:com.qa.fcrm.scripts.VerifyMultipleLogin@7d9d1a19]" name="preCondition" is-config="true" duration-ms="1" started-at="2018-07-04T12:53:46Z" finished-at="2018-07-04T12:53:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.fcrm.scripts.VerifyMultipleLogin.testMultipleLogin(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="testMultipleLogin(java.lang.String, java.lang.String)[pri:0, instance:com.qa.fcrm.scripts.VerifyMultipleLogin@7d9d1a19]" name="testMultipleLogin" duration-ms="22446" started-at="2018-07-04T12:53:46Z" data-provider="testLoginData" finished-at="2018-07-04T12:54:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ashwinkallingal]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Passw0rd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMultipleLogin -->
+        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.qa.fcrm.scripts.VerifyMultipleLogin@7d9d1a19]" name="postCondition" is-config="true" duration-ms="1" started-at="2018-07-04T12:54:16Z" finished-at="2018-07-04T12:54:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testMultipleLogin status=SUCCESS method=VerifyMultipleLogin.testMultipleLogin(java.lang.String, java.lang.String)[pri:0, instance:com.qa.fcrm.scripts.VerifyMultipleLogin@7d9d1a19] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:com.qa.fcrm.scripts.VerifyMultipleLogin@7d9d1a19]" name="closeApp" is-config="true" duration-ms="2568" started-at="2018-07-04T12:54:16Z" finished-at="2018-07-04T12:54:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+        <test-method status="PASS" signature="closeBrowser(java.lang.String)[pri:0, instance:com.qa.fcrm.scripts.VerifyMultipleLogin@7d9d1a19]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2018-07-04T12:54:18Z" finished-at="2018-07-04T12:54:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="closeExtentReport()[pri:0, instance:com.qa.fcrm.scripts.VerifyMultipleLogin@7d9d1a19]" name="closeExtentReport" is-config="true" duration-ms="1201" started-at="2018-07-04T12:54:19Z" finished-at="2018-07-04T12:54:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeExtentReport -->
+      </class> <!-- com.qa.fcrm.scripts.VerifyMultipleLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

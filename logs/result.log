@@ -1,0 +1,14 @@
+com.qa.fcrm.scripts.VerifyMultipleLogin 2018-07-04 12:51:20,957 com.qa.fcrm.base.BaseTest.initExtentReport(BaseTest.java:58) Initializing Extent Report 
+com.qa.fcrm.scripts.VerifyMultipleLogin 2018-07-04 12:51:21,613 com.qa.fcrm.base.BaseTest.initBrowser(BaseTest.java:81) Execution Started in the Browser:Chrome 
+com.qa.fcrm.scripts.VerifyMultipleLogin 2018-07-04 12:51:21,754 com.qa.fcrm.base.BaseTest.initApp(BaseTest.java:98) Application Opened 
+com.qa.fcrm.scripts.VerifyMultipleLogin 2018-07-04 12:52:17,048 com.qa.fcrm.base.BaseTest.preCondition(BaseTest.java:146) Explicit Login 
+com.qa.fcrm.scripts.VerifyMultipleLogin 2018-07-04 12:52:50,355 com.qa.fcrm.base.BaseTest.postCondition(BaseTest.java:165) Explicit Logout 
+com.qa.fcrm.scripts.VerifyMultipleLogin 2018-07-04 12:52:50,366 com.qa.fcrm.base.BaseTest.preCondition(BaseTest.java:146) Explicit Login 
+com.qa.fcrm.scripts.VerifyMultipleLogin 2018-07-04 12:53:20,872 com.qa.fcrm.base.BaseTest.postCondition(BaseTest.java:165) Explicit Logout 
+com.qa.fcrm.scripts.VerifyMultipleLogin 2018-07-04 12:53:20,876 com.qa.fcrm.base.BaseTest.preCondition(BaseTest.java:146) Explicit Login 
+com.qa.fcrm.scripts.VerifyMultipleLogin 2018-07-04 12:53:46,400 com.qa.fcrm.base.BaseTest.postCondition(BaseTest.java:165) Explicit Logout 
+com.qa.fcrm.scripts.VerifyMultipleLogin 2018-07-04 12:53:46,402 com.qa.fcrm.base.BaseTest.preCondition(BaseTest.java:146) Explicit Login 
+com.qa.fcrm.scripts.VerifyMultipleLogin 2018-07-04 12:54:16,351 com.qa.fcrm.base.BaseTest.postCondition(BaseTest.java:165) Explicit Logout 
+com.qa.fcrm.scripts.VerifyMultipleLogin 2018-07-04 12:54:16,353 com.qa.fcrm.base.BaseTest.closeApp(BaseTest.java:121) Application Closed 
+com.qa.fcrm.scripts.VerifyMultipleLogin 2018-07-04 12:54:18,921 com.qa.fcrm.base.BaseTest.closeBrowser(BaseTest.java:90) Execution Ended in the Browser:Chrome 
+com.qa.fcrm.scripts.VerifyMultipleLogin 2018-07-04 12:54:19,015 com.qa.fcrm.base.BaseTest.closeExtentReport(BaseTest.java:72) Closing Extent Report 

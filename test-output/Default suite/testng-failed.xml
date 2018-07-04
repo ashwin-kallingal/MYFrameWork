@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.qa.fcrm.scripts.VerifyMultipleLogin">
+        <methods>
+          <include name="initBrowser"/>
+          <include name="postCondition"/>
+          <include name="initApp"/>
+          <include name="closeExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="preCondition"/>
+          <include name="initExtentReport"/>
+          <include name="testMultipleLogin"/>
+          <include name="closeApp"/>
+        </methods>
+      </class> <!-- com.qa.fcrm.scripts.VerifyMultipleLogin -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
